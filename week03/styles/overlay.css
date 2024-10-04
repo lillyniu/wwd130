@@ -1,3 +1,11 @@
+:root {
+    --heading-font: helvetica;
+    --heading-background-color: gray;
+    --padding: steelblue;
+    --border: 1px solid rgba(0,0,0.1);
+
+}
+
 *{
     margin: 0;
     padding: 0;
